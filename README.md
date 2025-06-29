@@ -1,4 +1,4 @@
-## The Imperial Traveler: Crafting a Culinary Dialogue Between the Familiar and the Forbidden
+## The Imperial Traveler Roll: Crafting a Culinary Dialogue Between the Familiar and the Forbidden
 
 [简体中文](https://github.com/DgnFBJkH5k/The-Imperial-Traveler-Roll/blob/main/README_zh.md)
 
